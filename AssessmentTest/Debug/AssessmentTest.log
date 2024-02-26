@@ -1,0 +1,3 @@
+﻿  AssessmentTest.cpp
+C:\Users\zolin\Documents\University\2022-2023\Games Programming\Assessment\AssessmentTest\AssessmentTest.cpp(133,18): warning C4101: 'frame_texturesR': unreferenced local variable
+  AssessmentTest.vcxproj -> C:\Users\zolin\Documents\University\2022-2023\Games Programming\Assessment\AssessmentTest\Debug\AssessmentTest.exe
